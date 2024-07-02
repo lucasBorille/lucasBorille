@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou estagiando no **Departamento de Informática do MPPR**
 
-- 🌱 Atualmente estou cursando **Ciência da Computação na Universidade Positivo**
+- 🌱 Cursando **Ciência da Computação na Universidade Positivo**
 
 - 👯 Estou procurando ajudar em projetos de **frontend, gamedev e Inteligências Artificiais**
 
