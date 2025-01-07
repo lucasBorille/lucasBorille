@@ -5,7 +5,7 @@
 
 - 🌱 Cursando **Ciência da Computação na Universidade Positivo**
 
-- 👯 Estou procurando ajudar em projetos de **frontend, gamedev e Inteligências Artificiais**
+- 👯 Estou procurando ajudar em projetos de **frontend, backend, gamedev e Inteligências Artificiais**
 
 - 🤝 Gostaria de ajuda para aprender **Machine Learning e Deep Learning**
 
