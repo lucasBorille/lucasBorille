@@ -1,11 +1,11 @@
 <h1 align="center">Oi, eu sou o Lucas Borille</h1>
 <h3 align="center">Um apaixonado por tecnologia e inovação</h3>
 
-- 🔭 Atualmente estou estagiando no **Departamento de Informática do MPPR**
+- 🔭 Atualmente estou estagiando no **SIMEPAR** na área de dados e automatização
 
 - 🌱 Cursando **Ciência da Computação na Universidade Positivo**
 
-- 👯 Estou procurando ajudar em projetos de **frontend, backend, gamedev e Inteligências Artificiais**
+- 👯 Estou procurando ajudar em projetos de *backend, dataScience e Inteligências Artificiais**
 
 - 🤝 Gostaria de ajuda para aprender **Machine Learning e Deep Learning**
 
