@@ -2,7 +2,7 @@
 <h4 align="center">Um apaixonado por tecnologia e inovação</h4>
 <br>
 
-- 🔭 Atualmente estou estagiando no <a href="https://www.simepar.br/">**SIMEPAR**</a> na área de dados e backend
+- 🔭 Atualmente estou estagiando no <a href="https://www.simepar.br/">**SIMEPAR**</a> na área de desenvolvimento web fullstack
 
 - 🌱 Cursando **Ciência da Computação na Universidade Positivo**
 
