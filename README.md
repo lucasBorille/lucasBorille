@@ -6,7 +6,7 @@
 
 - 🌱 Cursando **Ciência da Computação na Universidade Positivo**
 
-- 👯 Estou procurando ajudar em projetos de **backend, dataScience e Inteligências Artificiais**
+- 👯 Estou procurando ajudar em projetos de **backend e Inteligências Artificiais**
 
 - 🤝 Gostaria de ajuda para aprender **Machine Learning e Deep Learning**
 
