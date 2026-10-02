@@ -1,38 +1,58 @@
-<h1 align="center"><b>Oi, eu sou o Lucas Borille</b></h1>
-<h4 align="center">Um apaixonado por tecnologia e inovação</h4>
-<br>
+# Hi, I'm Lucas Borille 👋
 
-- 🔭 Atualmente estou estagiando no <a href="https://www.simepar.br/">**SIMEPAR**</a> na área de desenvolvimento web fullstack
+**Software Engineer | Infrastructure Automation & Platform Engineering**
+📍 Curitiba, Brazil · 🎓 Computer Science at Universidade Positivo
 
-- 🌱 Cursando **Ciência da Computação na Universidade Positivo**
+I build and operate backend systems and automation for production environments. Day to day I work with Ansible, Linux, OpenShift/Kubernetes and Grafana in a high-availability capital-markets setting, and before that I built data-heavy REST APIs for public-sector and utility clients.
 
-- 👯 Estou procurando ajudar em projetos de **backend e Inteligências Artificiais**
-
-- 🤝 Gostaria de ajuda para aprender **Machine Learning e Deep Learning**
-
-- ⚡ Fato curioso **sou músico nas horas vagas**
+I care about replacing manual work with repeatable automation, making systems observable, and keeping production boring in the best way.
 
 ---
-<div style="display: inline_block" align="center">
-    
-### 🛠 &nbsp;Tech Stack
 
-<br>
+## 🔭 What I do
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![Flask](https://img.shields.io/badge/-Flask-05122A?&logo=flask)![NumPy](https://img.shields.io/badge/-NumPy-05122A?&logo=numpy&logoColor=blue)![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python)![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;![SpringBoot](https://img.shields.io/badge/-SprigBoot-05122A?style=flat&logo=springboot)![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![VueJS](https://img.shields.io/badge/Vue.js-05122A?&logo=vuedotjs)&nbsp;![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=1572B6)&nbsp;![PostegreSQL](https://img.shields.io/badge/-PostegreSQL-05122A?style=flat&logo=postgresql&logoColor=white)![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=white)![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=red)![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
+- **Infrastructure automation:** Ansible automations that detect server and process issues, monitor jobs, trigger remediation and report problems in real time.
+- **Observability:** Grafana dashboards and log analysis to follow around 12,000 automation jobs per day and troubleshoot production issues.
+- **Containers and platforms:** deployments, routes, pods and TLS certificates on OpenShift/Kubernetes; Docker images published to Quay.
+- **Backend and data:** REST APIs in Python (Flask, FastAPI) and Java (Spring Boot), backed by PostgreSQL/PostGIS.
 
-<p align="center">
-<a href="https://github.com/lucasBorille">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucasBorille&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-</div>
+## 🛠️ Tech stack
 
-## Entre em contato
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align=center>
-<a href="mailto:lucashborille@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" /></a> <a href="https://www.linkedin.com/in/lucas-borille-793010306/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a> <a href="https://www.instagram.com/lucas_borille/" target="blank"><img 
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="instagram"/></a>
-</div>
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-000000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+Also worked with: Scala Play, PostGIS, Quay, Bitbucket, Azure DevOps.
+
+## 💼 Experience highlights
+
+**Technology Intern, Capital Markets: Bradesco**
+- Built and maintain Ansible automations for production and homologation environments, replacing previously manual operational tasks.
+- Contributed to a data purge automation that frees roughly 1 TB of disk space per month.
+- Operate applications on OpenShift/Kubernetes and handle TLS certificate creation and renewal for application routes.
+
+**Full-Stack Developer: Simepar**
+- Designed and built, as sole developer, a Flask/PostgreSQL/PostGIS REST API serving wind data with spatial clipping by Brazilian state, handling requests of up to millions of data points.
+- Containerized it with Docker, using the same image in development and production, with Nginx in front. It later became a shared dependency for at least 5 internal projects.
+- Contributed to other REST APIs and a Vue.js frontend handling large volumes of meteorological data for clients such as Paraná's Civil Defense.
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-borille-793010306/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashborille@gmail.com)
